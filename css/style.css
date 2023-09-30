@@ -1,0 +1,11 @@
+/*Emir Pekova 8955893*/
+body{
+    font : normal normal normal 12px/1.5 Arial, Helvetica, sans-serif;
+    width : 100vw;
+    height : 100vh;
+    background-color: hsla(255, 70%, 20%, 39%);
+}
+h2{
+    color: #f02;
+    font-size: 2em;
+}
